@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name         = "HXSlider"
   s.version      = version
   s.summary      = "HXSlider is a slider of special tailor-made."
-  s.homepage     = "https://github.com/CapriHuang/HXPodSpec”
+  s.homepage     = "https://github.com/CapriHuang/HXSpec"
   s.author       = { "CapriHuang" => "1187395293@qq.com" }
   s.source       = { :git => "https://github.com/CapriHuang/HXSlider.git", :tag => '0.1.1' }
   s.platform     = :ios, '7.0'
